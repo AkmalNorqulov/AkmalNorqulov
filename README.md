@@ -1,5 +1,5 @@
 # 💫 About Me:
-15 years old Uzbek "programmist" with IELTS 7.5 and CEFR B2.<br>Currently studying and making projects on Python Web Framework Django<br>Sometimes, i also practice algorithms and data structures.<br>I practice at robocontest.uz, leetcode, codeforces, cses problem set.
+16 years old Uzbek "programmist" with IELTS 7.5 and SAT 1410.<br>Currently studying and making projects on Python Web Framework Django<br>Sometimes, i also practice algorithms and data structures.<br>I practice at robocontest.uz, leetcode, codeforces, cses problem set.
 
 
 ## 🌐 Socials:
